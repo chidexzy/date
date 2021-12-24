@@ -1,6 +1,6 @@
 from datetime import datetime
 
 timestamp = 1545730073
-dt_object = datetime
+dt_object = datetime.datetime
 
 print dt_object
