@@ -1,6 +1,4 @@
-from datetime import datetime
+from datetime import date
 
-timestamp = 1545730073
-dt_object = datetime.datetime
-
-print dt_object
+today = date.today()
+print("Today's date:", today)
