@@ -1,4 +1,1 @@
-from datetime import date
-
-today = date.today()
-print today
+⌠⴪ⴠ捯摩湧㨠畴昭ㄶਊ晲潭⁤慴整業攠業灯牴⁤慴攊ੴ潤慹‽⁤慴攮瑯摡礨⤊灲楮琠瑯摡礊
